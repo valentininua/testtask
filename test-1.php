@@ -1,5 +1,5 @@
 <?php
-
+//Example
 declare(strict_types=1);
 
 /**
@@ -79,3 +79,4 @@ final class GetUsersHandler
         return $result;
     }
 }
+
